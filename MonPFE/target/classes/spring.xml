@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+<bean id="controller"
+class="cigma.pfe.contollers.ClientController"></bean>
+</beans>
